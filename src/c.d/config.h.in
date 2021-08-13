@@ -10,8 +10,8 @@
 #define MAC_CACHE_SIZE 64
 #define SSID_CACHE_SIZE 64
 
-#define MAX_VENDOR_LENGTH 25
-#define MAX_SSID_LENGTH 15
+#define MAX_VENDOR_LENGTH 31
+#define MAX_SSID_LENGTH 31
 
 #define DB_NAME "./probemon.db"
 #define MANUF_NAME "./manuf"
